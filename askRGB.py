@@ -1,4 +1,6 @@
 # askRGB.py created by JC Irvine
+# Orginally created March 2017
+# Note this file was originally created in python and is intended to run on a Raspberry Pi computer with an RGB LED connected
 
 import RPi.GPIO as GPIO
 import time
